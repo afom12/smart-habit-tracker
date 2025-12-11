@@ -78,6 +78,9 @@ lib/
    ```
 
 ## 📱 Screenshots
+<img width="937" height="989" alt="Screenshot 2025-12-11 102722" src="https://github.com/user-attachments/assets/39110e7d-0478-4e0b-8a31-ae061034bef8" /> <img width="928" height="987" alt="Screenshot 2025-12-11 102548" src="https://github.com/user-attachments/assets/c98e5406-e989-4922-93a0-436387429ca3" /> <img width="730" height="967" alt="Screenshot 2025-12-11 102936" src="https://github.com/user-attachments/assets/0c1feaba-b2a1-4f66-bb1f-66ed5cfc4dab" />
+<img width="920" height="972" alt="Screenshot 2025-12-11 102744" src="https://github.com/user-attachments/assets/6d86521b-3438-46f5-bac5-c06655e86f72" /> <img width="723" height="977" alt="Screenshot 2025-12-11 102906" src="https://github.com/user-attachments/assets/3d31da05-6f40-4b19-97d3-67d3003103c0" />
+
 
 The app features:
 - Clean, modern UI with smooth animations
@@ -94,6 +97,7 @@ The app features:
 - **Hive** - Local database
 - **fl_chart** - Beautiful charts
 - **Google Fonts** - Typography
+
 - **flutter_local_notifications** - Push notifications
 
 ## 📝 Notes
