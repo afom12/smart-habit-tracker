@@ -78,16 +78,17 @@ lib/
    ```
 
 ## 📱 Screenshots
+
+## 📱 Screenshots
 <p align="center">
-  <img src="<img width="937" height="989" alt="Screenshot 2025-12-11 102722" src="https://github.com/user-attachments/assets/39110e7d-0478-4e0b-8a31-ae061034bef8" />" width="250" />
-  <img src="<img width="928" height="987" alt="Screenshot 2025-12-11 102548" src="https://github.com/user-attachments/assets/c98e5406-e989-4922-93a0-436387429ca3" />" width="250" />
-  <img src=" <img width="730" height="967" alt="Screenshot 2025-12-11 102936" src="https://github.com/user-attachments/assets/0c1feaba-b2a1-4f66-bb1f-66ed5cfc4dab" />" width="250" />
-</p>
-<p align="center">
-  <img src="<img width="920" height="972" alt="Screenshot 2025-12-11 102744" src="https://github.com/user-attachments/assets/6d86521b-3438-46f5-bac5-c06655e86f72" />" width="250" />
-  <img src="<img width="920" height="972" alt="Screenshot 2025-12-11 102744" src="https://github.com/user-attachments/assets/6d86521b-3438-46f5-bac5-c06655e86f72" />" width="250" />
+  <img src="[https://github.com/user-attachments/assets/39110e7d-0478-4e0b-8a31-ae061034bef8"](https://github.com/user-attachments/assets/39110e7d-0478-4e0b-8a31-ae061034bef8") width="250" />
+  <img src="[https://github.com/user-attachments/assets/c98e5406-e989-4922-93a0-436387429ca3"](https://github.com/user-attachments/assets/39110e7d-0478-4e0b-8a31-ae061034bef8") width="250" />
+  <img src="[https://github.com/user-attachments/assets/0c1feaba-b2a1-4f66-bb1f-66ed5cfc4dab"](https://github.com/user-attachments/assets/0c1feaba-b2a1-4f66-bb1f-66ed5cfc4dab") width="250" />
 </p>
 
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/6d86521b-3438-46f5-bac5-c06655e86f72"](https://github.com/user-attachments/assets/6d86521b-3438-46f5-bac5-c06655e86f72") width="250" />
+</p>
  
 The app features:
 - Clean, modern UI with smooth animations
