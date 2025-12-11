@@ -79,10 +79,10 @@ lib/
 
 ## 📱 Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/39110e7d-0478-4e0b-8a31-ae061034bef8" width="250" />
-  <img src="https://github.com/user-attachments/assets/c98e5406-e989-4922-93a0-436387429ca3" width="250" />
-  <img src="https://github.com/user-attachments/assets/0c1feaba-b2a1-4f66-bb1f-66ed5cfc4dab" width="250" />
-  <img src="https://github.com/user-attachments/assets/6d86521b-3438-46f5-bac5-c06655e86f72" width="250" />
+  <img src="https://github.com/user-attachments/assets/39110e7d-0478-4e0b-8a31-ae061034bef8" width="200" />
+  <img src="https://github.com/user-attachments/assets/c98e5406-e989-4922-93a0-436387429ca3" width="200" />
+  <img src="https://github.com/user-attachments/assets/0c1feaba-b2a1-4f66-bb1f-66ed5cfc4dab" width="200" />
+  <img src="https://github.com/user-attachments/assets/6d86521b-3438-46f5-bac5-c06655e86f72" width="200" />
 </p>
  
 The app features:
